@@ -1,0 +1,237 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Roboto-Black.ttf",
+      "sha1": "14701060227dbc4a4ec9901970e8a58bb136efd9"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "3009f8bc7f3aa84fd483469422442cc3789e0579"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "6cbb57ba2355cf442e06899898ff5af55867103e"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "cd6a28033099099036e2a2182c9c4475394deaad"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-Italic.ttf",
+      "sha1": "4c4faf7a3fae4d0b1474561f0080995d358861ac"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-Light.ttf",
+      "sha1": "191dda7a5142990cd980727d43b27e4802f0b321"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "693445f41eaa750b789a77568f9d6d995e85e0b2"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "adbc3bde424bcf7dbc38f148005c8319825891f2"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "75feb92a7fc61d00e8ca610a700344738ef5ae32"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "1d1d41fcadc571decb6444211b7993b99ce926e2"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-Thin.ttf",
+      "sha1": "f71ccd563f95ccc187cf4fe81287445e91f7121b"
+    },
+    {
+      "path": "app/assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "e3fb2b2a0dc2daf84d79cfff4b345a2afac132bc"
+    },
+    {
+      "path": "app/assets/fonts/RobotoCondensed-Bold.ttf",
+      "sha1": "c348d9f1b95e103ac2d14d56682867368f385b1a"
+    },
+    {
+      "path": "app/assets/fonts/RobotoCondensed-BoldItalic.ttf",
+      "sha1": "3bd9f2b8c65c4dd80f535b9ddd937784e0d71ce6"
+    },
+    {
+      "path": "app/assets/fonts/RobotoCondensed-Italic.ttf",
+      "sha1": "394439fa97f36bba80f061e32e46ead1650e798e"
+    },
+    {
+      "path": "app/assets/fonts/RobotoCondensed-Light.ttf",
+      "sha1": "df222c27b5e41dc89ca76a4479c9dd3ae6c1acbc"
+    },
+    {
+      "path": "app/assets/fonts/RobotoCondensed-LightItalic.ttf",
+      "sha1": "d974583f3217141e4fc04bf94c3c6f94d9f56f8f"
+    },
+    {
+      "path": "app/assets/fonts/RobotoCondensed-Regular.ttf",
+      "sha1": "c722696501a8663d64208d754e4db8165d3936f6"
+    },
+    {
+      "path": "app/assets/icons/add.png",
+      "sha1": "79356a8f0be2f128525b4dda95ffde47339ac176"
+    },
+    {
+      "path": "app/assets/icons/bookmark-fill.png",
+      "sha1": "99e32ad23aed08e9af566a3cb750586c7b96925b"
+    },
+    {
+      "path": "app/assets/icons/bookmark.png",
+      "sha1": "906d5501f259c81814a5cf2a935af6fce7e0dc47"
+    },
+    {
+      "path": "app/assets/icons/bubble-tea.png",
+      "sha1": "434e067e00e1c568195b5561dc9c0653ebea0fd3"
+    },
+    {
+      "path": "app/assets/icons/coffee-cup.png",
+      "sha1": "c679d1e8d2198345b036fc6ed6813036acda9d23"
+    },
+    {
+      "path": "app/assets/icons/heart.png",
+      "sha1": "89cac83fbb7663d0a72014bafa195720c342d04c"
+    },
+    {
+      "path": "app/assets/icons/home.png",
+      "sha1": "69dcb6423d52f0df748c0c0009bc7b91fa3a20ea"
+    },
+    {
+      "path": "app/assets/icons/left-arrow.png",
+      "sha1": "f93393725ab70158315c8f73683ab680096f2ea9"
+    },
+    {
+      "path": "app/assets/icons/milk.png",
+      "sha1": "61df73b9929fb8046539f42e8f2e3d182bee5445"
+    },
+    {
+      "path": "app/assets/icons/milk2.png",
+      "sha1": "6a25665fd079134e54744213ea383c81d56a7b5c"
+    },
+    {
+      "path": "app/assets/icons/milk3.png",
+      "sha1": "92e3a62db7738f9e24a74d7f2dd8a884f4ba3a12"
+    },
+    {
+      "path": "app/assets/icons/minus.png",
+      "sha1": "979cb20b4c271ac878b15dc4362b6b2690ffafd1"
+    },
+    {
+      "path": "app/assets/icons/night.png",
+      "sha1": "231a7f59c332eca1f83bab29d937fedcd53d4714"
+    },
+    {
+      "path": "app/assets/icons/profile.png",
+      "sha1": "1c760f4cff78e00997fa01e06a4a7fdbba86cbc8"
+    },
+    {
+      "path": "app/assets/icons/reward-cup.png",
+      "sha1": "b18ce81a0fb46e0ee485611ab92c136cb591c9d9"
+    },
+    {
+      "path": "app/assets/icons/right-arrow.png",
+      "sha1": "28489d8b77c472166b57c0782ccc277f85ccd4b7"
+    },
+    {
+      "path": "app/assets/icons/search.png",
+      "sha1": "5251bb1eac3d5d7aac00390dddd2f5a27e208237"
+    },
+    {
+      "path": "app/assets/icons/sunny.png",
+      "sha1": "f84bdee3fdd807afe05e0c5f258ecfe73c03ce99"
+    },
+    {
+      "path": "app/assets/images/banner_bg.jpg",
+      "sha1": "f2957487c8051a1ab6bbc1f3d58316dfa67a38a0"
+    },
+    {
+      "path": "app/assets/images/bubble-tea.png",
+      "sha1": "2d0172ccf4a66e9aaafd1879df607a741fb47e87"
+    },
+    {
+      "path": "app/assets/images/coffee.png",
+      "sha1": "998c70e02e92754e91184a6ac57ee46ef3874551"
+    },
+    {
+      "path": "app/assets/images/french-fries.png",
+      "sha1": "a891630585ccea35c2e6c074e934b7c292a86bc4"
+    },
+    {
+      "path": "app/assets/images/ice-tea.png",
+      "sha1": "02bdf20a1bf106faa41e381a6cf28a70f3d93b6f"
+    },
+    {
+      "path": "app/assets/images/plant_1.jpeg",
+      "sha1": "827b7e1278442b38d495c356a94d5a2191be9264"
+    },
+    {
+      "path": "app/assets/images/plant_2.jpg",
+      "sha1": "84c05727c1b0d7cb113032e6f063e83ca09320ff"
+    },
+    {
+      "path": "app/assets/images/plant_3.jpg",
+      "sha1": "10fa42d8954fcea451acd038930816656d5b4239"
+    },
+    {
+      "path": "app/assets/images/plant_4.jpg",
+      "sha1": "7de6cf1d13b09fd46db8a25f7d1e134d8e4a7458"
+    },
+    {
+      "path": "app/assets/images/plant_5.jpg",
+      "sha1": "a380076ecd1ad95f02fc7967796c5c258339f535"
+    },
+    {
+      "path": "app/assets/images/plant_6.jpg",
+      "sha1": "01caeeee2b9b56285ee46aea609ca30d9c860e3d"
+    },
+    {
+      "path": "app/assets/images/plant_7.jpg",
+      "sha1": "8a2aaaaf1429a927099ef2c834528f048a2ef021"
+    },
+    {
+      "path": "app/assets/images/profile_1.jpg",
+      "sha1": "ffe3686cf72c6c303ff6e1d349c2dd988905f891"
+    },
+    {
+      "path": "app/assets/images/profile_2.jpg",
+      "sha1": "9147afc33e2b33680bb21f7c746e51c51dace178"
+    },
+    {
+      "path": "app/assets/images/profile_3.jpg",
+      "sha1": "288582e4a10e2482a41b09af3525a7db3e367ef3"
+    },
+    {
+      "path": "app/assets/images/profile_4.jpg",
+      "sha1": "5f81e111a2de50963b6c6140299ffd42bb1719c1"
+    },
+    {
+      "path": "app/assets/images/profile_5.jpg",
+      "sha1": "41f7121fc5d4dda63739d5de797801ee79bf68f2"
+    },
+    {
+      "path": "app/assets/images/smoothie.png",
+      "sha1": "2b4d2afa3542dd067a7fc6cbb9406e54ab9e83d9"
+    },
+    {
+      "path": "app/assets/images/splash/ios/launch_screen.png",
+      "sha1": "4a0c59b49802283c1a8f3b183d9ae48ca10bd8a2"
+    },
+    {
+      "path": "app/assets/images/splash/ios/launch_screen@2x.png",
+      "sha1": "cfe92b8ca7f20cb249b799392dd513fcd0aceeee"
+    },
+    {
+      "path": "app/assets/images/splash/ios/launch_screen@3x.png",
+      "sha1": "66c113dc83188dabd07246406c13f6a5c599e9d3"
+    },
+    {
+      "path": "app/assets/images/strawberry-background.png",
+      "sha1": "6d60ac238d89ad01fa51d7f1c46242e5c8cb4b24"
+    }
+  ]
+}
